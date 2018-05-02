@@ -1,4 +1,5 @@
 # Exercise 1
+# This my new header bihhhhhh
 In this exercise, you'll practice working with branches, including **merging** changes between them.
 
 To complete the exercise, follow the below steps:
